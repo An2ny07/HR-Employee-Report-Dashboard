@@ -21,7 +21,7 @@ The dashboard analyzes employee data from 2000 to 2020, transforming raw HR reco
     Diversity insights across different racial groups.
 
 ## Tools & Technologies
-- MySQL – Data cleaning, transformation, and querying
+- MySQL Workbench – Data cleaning, transformation, and querying
 - Power BI – Dashboard creation and interactive visualizations
 - Excel / CSV – Data source and preprocessing (if applicable)
 
