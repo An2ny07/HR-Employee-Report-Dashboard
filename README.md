@@ -31,6 +31,5 @@ Building analytical dashboards in Power BI
 Extracting actionable insights from HR datasets
 
 ## Dashboard Preview
-![Final Dashboard](https://github.com/user-attachments/assets/8725c201-eed8-4098-b851-6777d6a5dc93)
-![Final Dashboard (1)](https://github.com/user-attachments/assets/b89f103b-08fd-47b6-8e6f-5d4b1f0b39e5)
+<img width="1344" height="753" alt="pics" src="https://github.com/user-attachments/assets/6c39ff9d-f854-48d6-a202-02179db4ac8f" />
 
