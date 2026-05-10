@@ -13,8 +13,6 @@ The dashboard analyzes employee data from 2000 to 2020, transforming raw HR reco
     KPI highlighting average tenure across the organization. <br>
 - Employee Growth Trend (2000–2020) - 
     Time-series analysis showing workforce growth over the years. <br>
-- Geographic Distribution - 
-    Map visualization of employees across different states. <br>
 - Department-Level Termination Rates - 
     Identification of departments with higher employee turnover. <br>
 - Race Distribution Analysis - 
